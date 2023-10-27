@@ -1,6 +1,8 @@
 # Basic Vue project with Threejs
 
 ## Project setup
+Project name = folder
+next prompt asks for name again and author
 
 ```
 vue init PatrickDolanJ/vue-three-template "project-name"
